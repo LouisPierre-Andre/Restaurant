@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Restaurant/static/css/main.366fe50b.css",
+    "main.css": "/Restaurant/static/css/main.f2925f7a.css",
     "main.js": "/Restaurant/static/js/main.22915121.js",
     "static/js/787.5653e3f8.chunk.js": "/Restaurant/static/js/787.5653e3f8.chunk.js",
     "static/media/burger.jpg": "/Restaurant/static/media/burger.cdd52418e6aceb30ce69.jpg",
@@ -64,12 +64,12 @@
     "static/media/Flamenco-Regular.ttf": "/Restaurant/static/media/Flamenco-Regular.9de2d8e10e06b69f104f.ttf",
     "static/media/logo2.png": "/Restaurant/static/media/logo2.df650b89dd9c21af0696.png",
     "index.html": "/Restaurant/index.html",
-    "main.366fe50b.css.map": "/Restaurant/static/css/main.366fe50b.css.map",
+    "main.f2925f7a.css.map": "/Restaurant/static/css/main.f2925f7a.css.map",
     "main.22915121.js.map": "/Restaurant/static/js/main.22915121.js.map",
     "787.5653e3f8.chunk.js.map": "/Restaurant/static/js/787.5653e3f8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.366fe50b.css",
+    "static/css/main.f2925f7a.css",
     "static/js/main.22915121.js"
   ]
 }
